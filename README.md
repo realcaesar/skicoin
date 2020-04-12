@@ -1,73 +1,47 @@
-Skicoin integration/staging tree
-================================
-
-http://www.skicoin.org
+Skicoin 0.8.x BETA
+====================
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Skicoin Developers
 
-What is Skicoin?
-----------------
+Distributed under the MIT/X11 software license, see the accompanying
+file COPYING or http://www.opensource.org/licenses/mit-license.php.
+This product includes software developed by the OpenSSL Project for use in the [OpenSSL Toolkit](http://www.openssl.org/). This product includes
+cryptographic software written by Eric Young ([eay@cryptsoft.com](mailto:eay@cryptsoft.com)), and UPnP software written by Thomas Bernard.
 
-Skicoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+Intro
+---------------------
+Skicoin is a free open source peer-to-peer electronic cash system that is
+completely decentralized, without the need for a central server or trusted
+parties.  Users hold the crypto keys to their own money and transact directly
+with each other, with the help of a P2P network to check for double-spending.
 
-For more information, as well as an immediately useable, binary version of
-the Skicoin client sofware, see http://www.skicoin.org.
 
-License
--------
+Setup
+---------------------
+You need the Qt4 run-time libraries to run Skicoin-Qt. On Debian or Ubuntu:
+	`sudo apt-get install libqtgui4`
 
-Skicoin is released under the terms of the MIT license. See `COPYING` for more
-information or see http://opensource.org/licenses/MIT.
+Unpack the files into a directory and run:
 
-Development process
--------------------
+- bin/32/skicoin-qt (GUI, 32-bit)
+- bin/32/skicoind (headless, 32-bit)
+- bin/64/skicoin-qt (GUI, 64-bit)
+- bin/64/skicoind (headless, 64-bit)
 
-Developers work in their own trees, then submit pull requests when they think
-their feature or bug fix is ready.
+See the documentation at the [Skicoin Wiki](http://skicoin.info)
+for help and more information.
 
-If it is a simple/trivial/non-controversial change, then one of the Skicoin
-development team members simply pulls it.
 
-If it is a *more complicated or potentially controversial* change, then the patch
-submitter will be asked to start a discussion with the devs and community.
-
-The patch will be accepted if there is broad consensus that it is a good thing.
-Developers should expect to rework and resubmit patches if the code doesn't
-match the project's coding conventions (see `doc/coding.txt`) or are
-controversial.
-
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/skicoin-project/skicoin/tags) are created
-regularly to indicate new official, stable release versions of Skicoin.
-
-Testing
--------
-
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test. Please be patient and help out, and
-remember this is a security-critical project where any mistake might cost people
-lots of money.
-
-### Automated Testing
-
-Developers are strongly encouraged to write unit tests for new code, and to
-submit new unit tests for old code.
-
-Unit tests for the core code are in `src/test/`. To compile and run them:
-
-    cd src; make -f makefile.unix test
-
-Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
-
-    qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
-    make -f Makefile.test
-    ./skicoin-qt_test
-
+Other Pages
+---------------------
+- [Unix Build Notes](build-unix.md)
+- [OSX Build Notes](build-osx.md)
+- [Windows Build Notes](build-msw.md)
+- [Coding Guidelines](coding.md)
+- [Release Process](release-process.md)
+- [Release Notes](release-notes.md)
+- [Multiwallet Qt Development](multiwallet-qt.md)
+- [Unit Tests](unit-tests.md)
+- [Translation Process](translation_process.md)

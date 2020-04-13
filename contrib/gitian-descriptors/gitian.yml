@@ -18,7 +18,7 @@ packages:
 - "unzip"
 - "pkg-config"
 - "libpng12-dev"
-reference_datetime: "2020-04-10 20:20:20"
+reference_datetime: "2011-01-30 00:00:00"
 remotes:
 - "url": "https://github.com/caesar-ski/skicoin.git"
   "dir": "skicoin"

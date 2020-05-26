@@ -83,3 +83,10 @@ The `master` branch is meant to be stable. Development is normally done in separ
 stable release versions of Skicoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+The Skicoin Whitepaper
+----------------------
+
+https://abseits.ski/white-paper/
+
+

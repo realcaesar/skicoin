@@ -9,7 +9,7 @@ https://abseits.ski
 What is Skicoin?
 ----------------
 
-Minerium is a mineable Scrypt crypto coin, a coin which use the litecoin protocol and blockchain technology.
+Skicoin is a mineable Scrypt crypto coin, a coin which use the litecoin protocol and blockchain technology.
  
 • Algorithm:        Scrypt
 

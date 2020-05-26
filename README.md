@@ -1,49 +1,85 @@
-Skicoin 1.0 BETA
-==================
 
-Copyright (c) 2009-2014 Bitcoin Developers 
-Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2011-2014 Skicoin Developers
 
-Distributed under the MIT/X11 software license, see the accompanying
-file COPYING or http://www.opensource.org/licenses/mit-license.php. This
-product includes software developed by the OpenSSL Project for use in
-the [OpenSSL Toolkit](http://www.openssl.org/). This product includes
-cryptographic software written by Eric Young (<eay@cryptsoft.com>), and
-UPnP software written by Thomas Bernard.
+Skicoin
+=========================
 
-Intro
------
+https://abseits.ski
 
-Skicoin is a free open source peer-to-peer electronic bonus system that is completely decentralized, 
-without the need for a central server or trusted parties. Users hold the crypto keys to their own coins 
-and transact directly with each other, with the help of a P2P network to check for double-spending.
 
-Setup
------
+What is Skicoin?
+----------------
 
-You need the Qt4 run-time libraries to run Skicoin-Qt. On Debian or
-Ubuntu: `sudo apt-get install libqtgui4`
+Minerium is a mineable Scrypt crypto coin, a coin which use the litecoin protocol and blockchain technology.
+ 
+• Algorithm:        Scrypt
 
-Unpack the files into a directory and run:
+• Block:            5 minute
 
--   bin/32/skicoin-qt (GUI, 32-bit)
--   bin/32/skicoind (headless, 32-bit)
--   bin/64/skicoin-qt (GUI, 64-bit)
--   bin/64/skicoind (headless, 64-bit)
+• Difficulty:       0.00465829 blocks
 
-See the documentation at http://abseits.ski for
-help and more information.
+• Ticker:           SKI
 
-Other Pages
------------
+• Block size:       4mb
 
--   [Unix Build Notes](build-unix.md)
--   [OSX Build Notes](build-osx.md)
--   [Windows Build Notes](build-msw.md)
--   [Coding Guidelines](coding.md)
--   [Release Process](release-process.md)
--   [Release Notes](release-notes.md)
--   [Multiwallet Qt Development](multiwallet-qt.md)
--   [Unit Tests](unit-tests.md)
--   [Translation Process](translation_process.md)
+• P2P Port:         2333
+
+• RPC Port:         2331
+
+• Prune height:     1,000,000
+
+• Max supply:       2,100,000 coins
+
+• Premined: 210,000  (10.0%)  
+
+• Masternode cost at Pre-sale:   0.0225 BTC 1-4 first days 
+                                 0.0300 BTC 5-7 last days
+
+• Based peer-to-peer cryptocurrency that is forked from Litecoin
+
+
+
+Links
+----------------
+
+• Website: https://abseits.ski/
+
+• Explorer:  https://available.soon/
+
+• Twitter: https://twitter.com/AbseitsS
+
+• Discord: https://discordapp.com/invite/sFaAuKN
+
+• Instagram: https://www.instagram.com/abseits.ski/
+
+
+
+
+Exchange
+----------------
+
+Erex.io: https://erex.io/account/signup/?ref=2477 (SOON) 
+
+Bitfinex.com:  https://www.bitfinex.com/?refcode=_dQt_iXMI 
+
+
+For more information, as well as an immediately useable, binary version of
+the Skicoin client sofware, see  https://abseits.ski/  (downloads section)
+
+
+
+
+
+License
+-------
+
+SkiCoin is released under the terms of the MIT license. See [COPYING](COPYING) for more
+information or see https://opensource.org/licenses/MIT.
+
+Development Process
+-------------------
+
+The `master` branch is meant to be stable. Development is normally done in separate branches.
+[Tags](https://github.com//caesar-ski/skicoin\tags) are created to indicate new official,
+stable release versions of Skicoin Core.
+
+The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).

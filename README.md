@@ -31,7 +31,7 @@ Skicoin is a mineable Scrypt crypto coin, a coin which use the litecoin protocol
 
 • Premined: 210,000  (10.0%)  
 
-• Masternode cost at Pre-sale:   0.0225 BTC 1-4 first days 
+• Coin cost at Pre-sale:   0.0225 BTC 1-4 first days 
                                  0.0300 BTC 5-7 last days
 
 • Based peer-to-peer cryptocurrency that is forked from Litecoin

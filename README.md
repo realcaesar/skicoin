@@ -91,3 +91,4 @@ https://abseits.ski/white-paper/
 
 
 # skicoin
+# skicoin2

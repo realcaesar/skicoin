@@ -89,8 +89,3 @@ The Skicoin Whitepaper
 
 https://abseits.ski/white-paper/
 
-
-# skicoin
-# skicoin2
-# skicoin2
-# skicoin

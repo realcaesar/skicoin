@@ -33,11 +33,11 @@ Skicoin is a mineable Scrypt crypto coin, a coin which use the litecoin protocol
 
 • Support the Project: 
 
-10000 Sat: 10 Skicoins   
+   10000 Sat: 10 Skicoins   
 
-100000 Sat: 100 Ski +25 Ski bonus 
+   100000 Sat: 100 Ski +25 Ski bonus 
 
-1000000 Sat: 1250 Ski+ memberplus
+   1000000 Sat: 1250 Ski+ memberplus
 
 • Based peer-to-peer cryptocurrency that is forked from Litecoin
 

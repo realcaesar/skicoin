@@ -31,8 +31,13 @@ Skicoin is a mineable Scrypt crypto coin, a coin which use the litecoin protocol
 
 • Premined: 210,000  (10.0%)  
 
-• Coin cost at Pre-sale:   0.0225 BTC 1-4 first days 
-                                 0.0300 BTC 5-7 last days
+• Support the Project: 
+
+10000 Sat: 10 Skicoins   
+
+100000 Sat: 100 Ski +25 Ski bonus 
+
+1000000 Sat: 1250 Ski+ memberplus
 
 • Based peer-to-peer cryptocurrency that is forked from Litecoin
 
@@ -57,9 +62,9 @@ Links
 Exchange
 ----------------
 
-Erex.io: https://erex.io/account/signup/?ref=2477 (SOON) 
+Safecrex.trade: https://www.safecrex.trade/signup?refid=IDE8187D108D (SOON) 
 
-Bitfinex.com:  https://www.bitfinex.com/?refcode=_dQt_iXMI 
+ 
 
 
 For more information, as well as an immediately useable, binary version of

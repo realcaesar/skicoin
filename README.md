@@ -4,8 +4,11 @@ Skicoin
 =========================
 
 Website: https://abseits.ski
+
 Miningpool: https://pool.abseits.ski/
+
 BlockExplorer: http://178.26.180.77:8000/
+
 Safecrex:  https://www.safecrex.trade/signup?refid=IDE8187D108D (Very SOON)
 
 What is Skicoin?

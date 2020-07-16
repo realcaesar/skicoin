@@ -9,8 +9,6 @@ Miningpool: https://pool.abseits.ski/
 
 BlockExplorer: http://178.26.180.77:8000/
 
-Safecrex:  https://www.safecrex.trade/signup?refid=IDE8187D108D (Very SOON)
-
 What is Skicoin?
 ----------------
 
@@ -53,7 +51,9 @@ Links
 
 • Website: https://abseits.ski/
 
-• Explorer:  https://available.soon/
+• Miningpool: https://pool.abseits.ski/
+
+• BlockExplorer: http://178.26.180.77:8000/
 
 • Twitter: https://twitter.com/AbseitsS
 
@@ -61,8 +61,9 @@ Links
 
 • Instagram: https://www.instagram.com/abseits.ski/
 
+• Whitepaper: https://abseits.ski/white-paper/
 
-
+• Safecrex:  https://www.safecrex.trade/signup?refid=IDE8187D108D
 
 Exchange
 ----------------

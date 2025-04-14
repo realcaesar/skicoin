@@ -1,4 +1,4 @@
-This Project was all just for Testing Purposes! 
+This Project was all just for Testing Purposes! Further Information Below!
 
 //the old SkicoinRep
 ![](https://abseits.ski/wp-content/uploads/2020/05/low-poly-3614652-1536x655.png)
@@ -9,8 +9,6 @@ Skicoin
 Website: https://abseits.ski
 
 Miningpool: https://pool.abseits.ski/
-
-BlockExplorer: http://178.26.180.77:8000/
 
 What is Skicoin?
 ----------------
@@ -37,14 +35,6 @@ Skicoin is a mineable Scrypt crypto coin, a coin which use the litecoin protocol
 
 • Premined: 210,000  (10.0%)  
 
-• Support the Project: 
-
-   10000 Sat: 10 Skicoins   
-
-   100000 Sat: 100 Ski +25 Ski bonus 
-
-   1000000 Sat: 1250 Ski+ memberplus
-
 • Based peer-to-peer cryptocurrency that is forked from Litecoin
 
 
@@ -56,31 +46,17 @@ Links
 
 • Miningpool: https://pool.abseits.ski/
 
-• BlockExplorer: http://178.26.180.77:8000/
+• BlockExplorer: https://explorer.abseits.ski/
 
 • Twitter: https://twitter.com/AbseitsS
 
 • Discord: https://discordapp.com/invite/sFaAuKN
 
-• Instagram: https://www.instagram.com/abseits.ski/
-
 • Whitepaper: https://abseits.ski/white-paper/
-
-• Safecrex:  https://www.safecrex.trade/signup?refid=IDE8187D108D
-
-Exchange
-----------------
-
-Safecrex.trade: https://www.safecrex.trade/signup?refid=IDE8187D108D (SOON) 
-
- 
 
 
 For more information, as well as an immediately useable, binary version of
 the Skicoin client sofware, see  https://abseits.ski/  (downloads section)
-
-
-
 
 
 License
@@ -100,6 +76,9 @@ The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 The Skicoin Whitepaper
 ----------------------
-
 https://abseits.ski/white-paper/
 
+
+Purpose and Conclusion of the Skicoin Project
+---------------------------------------------
+The Skicoin project was originally created as a learning experiment for the developer to explore blockchain technology and gain first-hand experience with launching a cryptocurrency. It was never intended as a commercial venture, and no money was earned from the project. After a few months, the main developer had achieved his goals — experimenting with the code, setting up the network, and understanding how blockchain ecosystems work. Since there was no strong community behind the project and the focus was always on personal learning, he decided to shut down the remaining infrastructure in early 2021.
